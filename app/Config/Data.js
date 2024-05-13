@@ -1,0 +1,57 @@
+const HomeScreenData =[
+    subscriptionDetails ={
+        'Total Numbers' : '00',
+        'Active Subscriptions' : '00',
+        'Cancelled Subscriptions' : '00' 
+    }]
+    const countriesWithFlags = [
+        { name: "Afghanistan", abbreviation: "AF" },
+        { name: "Albania", abbreviation: "AL" },
+        { name: "Algeria", abbreviation: "DZ" },
+        { name: "Andorra", abbreviation: "AD" },
+        { name: "Angola", abbreviation: "AO" },
+        { name: "Antigua and Barbuda", abbreviation: "AG" },
+        { name: "Argentina", abbreviation: "AR" },
+        { name: "Armenia", abbreviation: "AM" },
+        { name: "Australia", abbreviation: "AU" },
+        { name: "Austria", abbreviation: "AT" },
+        { name: "Azerbaijan", abbreviation: "AZ" },
+        { name: "Bahamas", abbreviation: "BS" },
+        { name: "Bahrain", abbreviation: "BH" },
+        { name: "Bangladesh", abbreviation: "BD" },
+        { name: "Barbados", abbreviation: "BB" },
+        { name: "Belarus", abbreviation: "BY" },
+        { name: "Belgium", abbreviation: "BE" },
+        { name: "Belize", abbreviation: "BZ" },
+        { name: "Benin", abbreviation: "BJ" },
+        { name: "Bhutan", abbreviation: "BT" },
+        { name: "Bolivia (Plurinational State of)", abbreviation: "BO" },
+        { name: "Bosnia and Herzegovina", abbreviation: "BA" },
+        { name: "Botswana", abbreviation: "BW" },
+        { name: "Brazil", abbreviation: "BR" },
+        { name: "Brunei Darussalam", abbreviation: "BN" },
+        { name: "Bulgaria", abbreviation: "BG" },
+        { name: "Burkina Faso", abbreviation: "BF" },
+        { name: "Burundi", abbreviation: "BI" },
+        { name: "Cabo Verde", abbreviation: "CV" },
+        { name: "Cambodia", abbreviation: "KH" },
+        { name: "Cameroon", abbreviation: "CM" },
+        { name: "Canada", abbreviation: "CA" },
+        { name: "Central African Republic", abbreviation: "CF" },
+        { name: "Chad", abbreviation: "TD" },
+        { name: "Chile", abbreviation: "CL" },
+        { name: "China", abbreviation: "CN" },
+        { name: "Colombia", abbreviation: "CO" },
+        { name: "Comoros", abbreviation: "KM" },
+        { name: "Congo", abbreviation: "CG" },
+        { name: "Congo, Democratic Republic of the", abbreviation: "CD" },
+        { name: "Costa Rica", abbreviation: "CR" },
+        { name: "Côte d'Ivoire", abbreviation: "CI" },
+        { name: "Croatia", abbreviation: "HR" },
+        { name: "Cuba", abbreviation: "CU" },
+        { name: "Cyprus", abbreviation: "CY" },      
+]
+
+export { HomeScreenData, countriesWithFlags}
+
+  
